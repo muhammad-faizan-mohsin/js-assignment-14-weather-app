@@ -173,3 +173,8 @@ margin: 10px;
   ::-webkit-scrollbar-thumb:hover {
     background: #161031;; 
   }
+  .wet-icon{
+    display: flex;
+    align-items: center;
+    
+  }
